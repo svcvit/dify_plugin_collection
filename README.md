@@ -1,6 +1,7 @@
 # Dify 插件列表
 
 这是 DIFY 的官方市场 https://marketplace.dify.ai/ 插件安装包，方便离线用户自由选择，不定期更新。
+当然，如果你想开发一个插件，也可以将 .difypkg 修改为 .zip，直接解压，就可以看到源码。
 
 ## model
 | 插件ID | 名称 | 描述 | 下载 |
