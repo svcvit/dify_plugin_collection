@@ -1,3 +1,13 @@
+
+# Dify Plugin List
+These are the plugin installation packages from the DIFY official marketplace https://marketplace.dify.ai/, convenient for offline users to choose freely.
+
+If you want to develop a plugin, you can also rename the `.difypkg` file extension to `.zip` and extract it directly to view the source code.
+
+Last updated: 2025/04/17
+
+Note: Plugins have dependencies, and the installation process may also require an internet connection. This collection only contains the plugin installation packages and does not include their dependencies.
+
 # Dify 插件列表
 
 这是 DIFY 的官方市场 https://marketplace.dify.ai/ 插件安装包，方便离线用户自由选择。
@@ -8,8 +18,9 @@
 
 注意：插件会有依赖，安装过程也可能需要联网的，这里只是插件的安装包，并不包含依赖。
 
-## model
-| 插件ID | 名称 | 描述 | 下载 |
+
+## Model
+| ID | Name | Description | Download |
 | --- | --- | --- | --- |
 | langgenius/ollama | Ollama | Ollama | [langgenius_ollama_0.0.5.difypkg](/downloads/model/langgenius_ollama_0.0.5.difypkg) |
 | langgenius/openai | OpenAI | OpenAI 提供的模型，例如 GPT-3.5-Turbo 和 GPT-4。 | [langgenius_openai_0.0.19.difypkg](/downloads/model/langgenius_openai_0.0.19.difypkg) |
